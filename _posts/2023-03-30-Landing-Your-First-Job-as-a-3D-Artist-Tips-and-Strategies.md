@@ -43,4 +43,4 @@ Landing your first job as a 3D artist may seem challenging, but with the right a
 
 ---
 
-Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://polyway.flutterflow.app/Services)]
+Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://polyway.flutterflow.app/Services)
