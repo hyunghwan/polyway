@@ -2,7 +2,7 @@
 layout: post
 title: "Landing Your First Job as a 3D Artist: Tips and Strategies"
 description: "A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities."
-date: 2023-03-30
+date: 2023-03-20
 feature_image: images/desk.jpg
 tags: [tips, work]
 ---
