@@ -9,46 +9,34 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Polyway Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Polyway helps 3D artists build better careers by providing transparent salary data."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://blog.polyway.page"
 
 # Favicon
 favicon: images/favicon.png
-
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
-
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+  - text: Polyway
+    url: https://polyway.page/
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: "#2C5282"
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "Polyway is by [sqncs studio LLC](https://sqncs.com/). &copy; sqncs studio LLC. all rights reserved."
+  has_social: false
 
 # Plugins
 plugins:
@@ -56,8 +44,7 @@ plugins:
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 3
-paginate_path: '/page:num/'
-
+paginate_path: "/page:num/"
 
 # Permalinks
 permalink: /:title
