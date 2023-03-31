@@ -3,6 +3,7 @@ layout: post
 title: "10 Behavioral Questions You'd Get Asked During a 3D Artist Interview and How to Answer Them"
 description: A comprehensive guide to 10 behavioral questions you might face during a 3D artist interview, with answer guidelines to help you make a great impression.
 date: 2023-03-30
+feature_image: https://images.unsplash.com/photo-1573497491208-6b1acb260507?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 categories: [Interviews, 3D Art]
 ---
 
