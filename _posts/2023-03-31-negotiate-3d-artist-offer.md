@@ -56,3 +56,7 @@ Once the negotiation is complete, carefully review the final offer, considering 
 After evaluating the final offer, make your decision. If the offer aligns with your priorities and you feel it fairly represents your value as a 3D artist, accept it with enthusiasm. If not, consider exploring other opportunities that better align with your needs and goals.
 
 By following these steps, you'll be better prepared to negotiate your 3D artist job offer, potentially increasing your total compensation by up to 20%.
+
+---
+
+Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://polyway.flutterflow.app/Services)
