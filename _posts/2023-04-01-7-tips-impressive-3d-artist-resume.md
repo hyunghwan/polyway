@@ -4,7 +4,7 @@ title: "7 Essential Tips for Writing an Impressive 3D Artist Resume"
 date: 2023-04-01
 tags: [3D Art, Career, Resume]
 description: A concise guide on crafting an impressive 3D artist resume that showcases your skills, experience, and achievements to potential employers.
-feature_image: ["/images/3d-artist-resume.jpg"](https://images.unsplash.com/photo-1499914485622-a88fac536970?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+feature_image: https://images.unsplash.com/photo-1499914485622-a88fac536970?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ---
 
 Creating a compelling resume is crucial for 3D artists looking to land their dream job. A well-crafted resume will showcase your skills, experience, and achievements, making you stand out to potential employers. In this guide, we'll share 7 essential tips on how to write an impressive resume as a 3D artist.
