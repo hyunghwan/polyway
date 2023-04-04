@@ -8,6 +8,7 @@ tags: [Interviews, 3D Art]
 ---
 
 As a 3D artist, you may have already prepared your portfolio and technical skills for the job interview. But are you ready for the behavioral questions? In this blog, we'll explore 10 behavioral questions you're likely to face during a 3D artist interview and provide answer guidelines to help you succeed.
+
 <!--more-->
 
 ## 1. Tell us about a time when you had to meet a tight deadline for a project. How did you handle it?
@@ -52,4 +53,4 @@ As a 3D artist, you may have already prepared your portfolio and technical skill
 
 ---
 
-Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://polyway.flutterflow.app/Services)
+Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://forms.gle/RB623UhTA4HF25528)
