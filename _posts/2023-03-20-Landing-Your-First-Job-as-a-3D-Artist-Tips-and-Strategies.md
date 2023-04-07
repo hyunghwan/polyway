@@ -43,4 +43,4 @@ Landing your first job as a 3D artist may seem challenging, but with the right a
 
 ---
 
-Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://forms.gle/RB623UhTA4HF25528)
+Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://cal.com/hyunghwan-byun-2jzxjj/portfolio-review)

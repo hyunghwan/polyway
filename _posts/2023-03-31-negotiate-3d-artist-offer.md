@@ -59,4 +59,4 @@ By following these steps, you'll be better prepared to negotiate your 3D artist 
 
 ---
 
-Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://forms.gle/RB623UhTA4HF25528)
+Need help preparing 3D art portfolio? Get matched with industry professionals for 1:1 portfolio review. [Book a session](https://cal.com/hyunghwan-byun-2jzxjj/portfolio-review)
